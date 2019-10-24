@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"groupId.artefactId","c":"AppTest","l":"AppTest(String)","url":"%3Cinit%3E(java.lang.String)"},{"p":"groupId.artefactId","c":"AppTest","l":"suite()"},{"p":"groupId.artefactId","c":"AppTest","l":"testApp()"}]
